@@ -1,0 +1,24 @@
+This code runs with ezVidC60.ocx which is included in 'driver.zip' file.
+This controll is not mine, and you can check it out and download it on 
+it's authors web site (which is specified in help file)...
+
+to run this code you must first register OCX.
+
+to do this...
+1. unpack driver.zip to empty folder
+2. find file 'register.bat' and run it
+   ... window should apear notifying U of success
+
+
+Run VB5,6..... and open project 'MotionDetection.vbp'
+press F5 to run
+
+
+What does the program do?
+it should create a form with picture from the connected camera on it...
+in few seconds red boxes dissaper and now when something moves
+program marks changes in picture...
+
+
+
+ 
